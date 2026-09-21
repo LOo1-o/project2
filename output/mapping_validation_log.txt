@@ -1,0 +1,248 @@
+[TABLE 1] ⚠️ Источник не определён. Пропускаем таблицу.
+[TABLE 2] source=M25_000000_t01Ved14.xlsx matched=3/6 missing_sample=['KapIRez', 'OboAkt', 'ValBal']
+[TABLE 2] ⚠️ Строка 9 (M25_000000_t01Ved14.xlsx): название 'в том числе:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 2] ⚠️ Строка 10 (M25_000000_t01Ved14.xlsx): название 'запасы' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 2] ⚠️ Строка 11 (M25_000000_t01Ved14.xlsx): название 'финансовые и другие оборотные активы (включая дебиторскую задолженность)' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 2] ⚠️ Строка 12 (M25_000000_t01Ved14.xlsx): название 'денежные средства и денежные эквиваленты' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 2] ⚠️ Строка 13 (M25_000000_t01Ved14.xlsx): название 'Капитал и резервы' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 2] ⚠️ Строка 15 (M25_000000_t01Ved14.xlsx): название 'в том числе:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 2] ⚠️ Строка 16 (M25_000000_t01Ved14.xlsx): название 'займы и кредиты' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 2] ⚠️ Строка 17 (M25_000000_t01Ved14.xlsx): название 'другие долгосрочные обязательства' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 2] ⚠️ Строка 19 (M25_000000_t01Ved14.xlsx): название 'в том числе:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 2] ⚠️ Строка 20 (M25_000000_t01Ved14.xlsx): название 'займы и кредиты' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 2] ⚠️ Строка 21 (M25_000000_t01Ved14.xlsx): название 'кредиторская задолженность' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 2] ⚠️ Строка 22 (M25_000000_t01Ved14.xlsx): название 'другие краткосрочные обязательства' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 3] source=M25_000000_t22Ved14.xlsx matched=2/8 missing_sample=['DolDolObyKIstSobSreIDolOby', 'DolImuProNazVValBal', 'KoeAbsLik(noOgr20%)', 'KoeLik(noOgr80%)', 'KoeObeSobMatOboSre', 'KoeObeSobOboSre']
+[TABLE 3] ⚠️ Строка 5 (M25_000000_t22Ved14.xlsx): название 'Соотношение заемных и собственных средств (нормативное ограничение  меньше либо равно 100%)' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 3] ⚠️ Строка 6 (M25_000000_t22Ved14.xlsx): название 'Коэффициент маневренности (доля собственных оборотных средств  к источнику собственных средств)' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 3] ⚠️ Строка 7 (M25_000000_t22Ved14.xlsx): название 'Доля имущества производственного назначения в валюте баланса' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 3] ⚠️ Строка 8 (M25_000000_t22Ved14.xlsx): название 'Коэффициент обеспеченности собственными материальными оборотными средствами' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 3] ⚠️ Строка 9 (M25_000000_t22Ved14.xlsx): название 'Доля долгосрочных обязательств к источнику собственных средств и долгосрочным обязательствам (долг к капитализации)' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 3] ⚠️ Строка 10 (M25_000000_t22Ved14.xlsx): название 'Коэффициент абсолютной ликвидности (нормальное ограничение 20%)' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 4] ⚠️ Строка 5 (M25_000000_t01Ved14.xlsx): название 'в том числе:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 5] source=M25_000000_t10Ved14.xlsx matched=1/5 missing_sample=['NaDenSreIDenEkv', 'NaFinIDruOboAkt(vkDebZad', 'NaNa_1', 'VToChi:Zap']
+[TABLE 6] source=M25_000000_t10Ved14.xlsx matched=1/5 missing_sample=['NaDenSreIDenEkv', 'NaFinIDruOboAkt(vkDebZad', 'NaNa_1', 'VToChi:Zap']
+[TABLE 7] source=M25_000000_t10Ved14.xlsx matched=1/5 missing_sample=['NaDenSreIDenEkv', 'NaFinIDruOboAkt(vkDebZad', 'NaNa_1', 'VToChi:Zap']
+[TABLE 8] source=M25_000000_t10Ved14.xlsx matched=1/5 missing_sample=['NaDenSreIDenEkv', 'NaFinIDruOboAkt(vkDebZad', 'NaNa_1', 'VToChi:Zap']
+[TABLE 9] source=M25_000000_t10Ved14.xlsx matched=1/5 missing_sample=['NaDenSreIDenEkv', 'NaFinIDruOboAkt(vkDebZad', 'NaNa_1', 'VToChi:Zap']
+[TABLE 10] source=M25_000000_t10Ved14.xlsx matched=1/5 missing_sample=['NaDenSreIDenEkv', 'NaFinIDruOboAkt(vkDebZad', 'NaNa_1', 'VToChi:Zap']
+[TABLE 10] ⚠️ Строка 12 (M25_000000_t10Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 10] ⚠️ Строка 13 (M25_000000_t10Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 10] ⚠️ Строка 24 (M25_000000_t10Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 11] source=M25_000000_t10Ved14.xlsx matched=1/5 missing_sample=['NaDenSreIDenEkv', 'NaFinIDruOboAkt(vkDebZad', 'NaNa_1', 'VToChi:Zap']
+[TABLE 11] ⚠️ Строка 4 (M25_000000_t10Ved14.xlsx): название 'деятельность по организации  и проведению азартных игр  и заключению пари,  по организации и проведению лотерей' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 12] source=M25_000000_t10Ved14.xlsx matched=1/5 missing_sample=['NaDenSreIDenEkv', 'NaFinIDruOboAkt(vkDebZad', 'NaNa_1', 'OboAktNa']
+[TABLE 12] ⚠️ Строка 1 (M25_000000_t10Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 12] ⚠️ Строка 2 (M25_000000_t10Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 12] ⚠️ Строка 3 (M25_000000_t10Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 12] ⚠️ Строка 5 (M25_000000_t10Ved14.xlsx): название 'в том числе:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 13] source=M25_000000_t10Ved14.xlsx status=NO_HEADERS expected_indicators=5 sample=['NaDenSreIDenEkv', 'NaFinIDruOboAkt(vkDebZad', 'NaNa_1', 'OboAktNa', 'VToChi:Zap']
+[TABLE 14] source=M25_000000_t10Ved14.xlsx status=NO_HEADERS expected_indicators=5 sample=['NaDenSreIDenEkv', 'NaFinIDruOboAkt(vkDebZad', 'NaNa_1', 'OboAktNa', 'VToChi:Zap']
+[TABLE 15] source=M25_000000_t10Ved14.xlsx status=NO_HEADERS expected_indicators=5 sample=['NaDenSreIDenEkv', 'NaFinIDruOboAkt(vkDebZad', 'NaNa_1', 'OboAktNa', 'VToChi:Zap']
+[TABLE 16] source=M25_000000_t10Ved14.xlsx status=NO_HEADERS expected_indicators=5 sample=['NaDenSreIDenEkv', 'NaFinIDruOboAkt(vkDebZad', 'NaNa_1', 'OboAktNa', 'VToChi:Zap']
+[TABLE 17] source=M25_000000_t10Ved14.xlsx status=NO_HEADERS expected_indicators=5 sample=['NaDenSreIDenEkv', 'NaFinIDruOboAkt(vkDebZad', 'NaNa_1', 'OboAktNa', 'VToChi:Zap']
+[TABLE 18] source=M25_000000_t10Ved14.xlsx status=NO_HEADERS expected_indicators=5 sample=['NaDenSreIDenEkv', 'NaFinIDruOboAkt(vkDebZad', 'NaNa_1', 'OboAktNa', 'VToChi:Zap']
+[TABLE 19] source=M25_000000_t10Ved14.xlsx status=NO_HEADERS expected_indicators=5 sample=['NaDenSreIDenEkv', 'NaFinIDruOboAkt(vkDebZad', 'NaNa_1', 'OboAktNa', 'VToChi:Zap']
+[TABLE 20] source=M25_000000_t10Ved14.xlsx status=NO_HEADERS expected_indicators=5 sample=['NaDenSreIDenEkv', 'NaFinIDruOboAkt(vkDebZad', 'NaNa_1', 'OboAktNa', 'VToChi:Zap']
+[TABLE 21] source=M25_000000_t10Ved14.xlsx status=NO_HEADERS expected_indicators=5 sample=['NaDenSreIDenEkv', 'NaFinIDruOboAkt(vkDebZad', 'NaNa_1', 'OboAktNa', 'VToChi:Zap']
+[TABLE 22] ⚠️ Строка 5 (M25_000000_t01Ved14mo8.xlsx): название 'Городские округа:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 22] ⚠️ Строка 8 (M25_000000_t01Ved14mo8.xlsx): название 'Муниципальные округа:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 22] ⚠️ Строка 11 (M25_000000_t01Ved14mo8.xlsx): название 'Муниципальные районы:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 22] ⚠️ Строка 19 (M25_000000_t01Ved14mo8.xlsx): название 'Олюторский' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 22] ⚠️ Строка 20 (M25_000000_t01Ved14mo8.xlsx): название 'Пенжинский' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 23] source=M25_000000_t13Ved14.xlsx status=NO_HEADERS expected_indicators=5 sample=['FinIDruAkt(deNdPoPriTseKraFinVloSreSrPog', 'KraKreZadSreSrPog', 'OboAktDli1Obo', 'SreStoOboAktTysNa', 'ZapDli1Obo']
+[TABLE 24] source=M25_000000_t03Ved14.xlsx matched=2/4 missing_sample=['NaNa', 'NaNem,fiIDruVneAkt']
+[TABLE 24] ⚠️ Строка 6 (M25_000000_t03Ved14.xlsx): название 'в том числе:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 24] ⚠️ Строка 21 (M25_000000_t03Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 24] ⚠️ Строка 22 (M25_000000_t03Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 24] ⚠️ Строка 23 (M25_000000_t03Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 24] ⚠️ Строка 24 (M25_000000_t03Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 25] source=M25_000000_t14Ved14.xlsx status=NO_HEADERS expected_indicators=3 sample=['FinIDruAkt(deNdPoPriTseKraFinVlo', 'Na_2', 'ObyBeZaeSre']
+[TABLE 26] source=M25_000000_t14Ved14.xlsx status=NO_HEADERS expected_indicators=3 sample=['FinIDruAkt(deNdPoPriTseKraFinVlo', 'Na_2', 'ObyBeZaeSre']
+[TABLE 27] source=M25_000000_t14Ved14.xlsx status=NO_HEADERS expected_indicators=3 sample=['FinIDruAkt(deNdPoPriTseKraFinVlo', 'Na_2', 'ObyBeZaeSre']
+[TABLE 28] source=M25_000000_t14Ved14.xlsx status=NO_HEADERS expected_indicators=3 sample=['FinIDruAkt(deNdPoPriTseKraFinVlo', 'Na_2', 'ObyBeZaeSre']
+[TABLE 29] ⚠️ Строка 8 (M25_000000_t10Ved14.xlsx): название 'в том числе:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 29] ⚠️ Строка 18 (M25_000000_t10Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 29] ⚠️ Строка 19 (M25_000000_t10Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 29] ⚠️ Строка 20 (M25_000000_t10Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 29] ⚠️ Строка 21 (M25_000000_t10Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 30] source=M25_000000_t20Ved14.xlsx status=NO_HEADERS expected_indicators=3 sample=['DruDolOby', 'Na_3', 'ZayIKre']
+[TABLE 31] source=M25_000000_t20Ved14.xlsx status=NO_HEADERS expected_indicators=3 sample=['DruDolOby', 'Na_3', 'ZayIKre']
+[TABLE 32] source=M25_000000_t20Ved14.xlsx status=NO_HEADERS expected_indicators=3 sample=['DruDolOby', 'Na_3', 'ZayIKre']
+[TABLE 33] ⚠️ Строка 5 (M25_000000_t13Ved14.xlsx): название 'в том числе:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 34] ⚠️ Строка 1 (M25_000000_t21Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 34] ⚠️ Строка 2 (M25_000000_t21Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 34] ⚠️ Строка 3 (M25_000000_t21Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 35] ⚠️ Строка 1 (M25_000000_t21Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 35] ⚠️ Строка 2 (M25_000000_t21Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 35] ⚠️ Строка 3 (M25_000000_t21Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 35] ⚠️ Строка 20 (M25_000000_t21Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 35] ⚠️ Строка 21 (M25_000000_t21Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 35] ⚠️ Строка 22 (M25_000000_t21Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 35] ⚠️ Строка 36 (M25_000000_t21Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 35] ⚠️ Строка 37 (M25_000000_t21Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 35] ⚠️ Строка 38 (M25_000000_t21Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 35] ⚠️ Строка 51 (M25_000000_t21Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 35] ⚠️ Строка 52 (M25_000000_t21Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 35] ⚠️ Строка 53 (M25_000000_t21Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 35] ⚠️ Строка 62 (M25_000000_t21Ved14.xlsx): название 'деятельность по организации и проведению азартных игр и заключению пари,  по организации и проведению лотерей' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 36] ⚠️ Строка 6 (M25_000000_t14Ved14.xlsx): название 'в том числе:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 37] source=M25_000000_t22Ved14.xlsx status=NO_HEADERS expected_indicators=13 sample=['DolDolObyKIstSobSreIDolOby', 'DolImuProNazVValBal', 'DolIstFin(isSobSreIDolObyVValBal', 'KoeAbsLik(noOgr20%)', 'KoeAvt(doSobSreVValBal(noOgrBolLiRav50%)', 'KoeLik(noOgr80%)', 'KoeMan(doSobOboSreKIstSobSre', 'KoeObeSobMatOboSre', 'KoeObeSobOboSre', 'KoeTekLik(po(noOgr20%)']
+[TABLE 38] source=M25_000000_t22Ved14.xlsx status=NO_HEADERS expected_indicators=13 sample=['DolDolObyKIstSobSreIDolOby', 'DolImuProNazVValBal', 'DolIstFin(isSobSreIDolObyVValBal', 'KoeAbsLik(noOgr20%)', 'KoeAvt(doSobSreVValBal(noOgrBolLiRav50%)', 'KoeLik(noOgr80%)', 'KoeMan(doSobOboSreKIstSobSre', 'KoeObeSobMatOboSre', 'KoeObeSobOboSre', 'KoeTekLik(po(noOgr20%)']
+[TABLE 39] source=M25_000000_t22Ved14.xlsx status=NO_HEADERS expected_indicators=13 sample=['DolDolObyKIstSobSreIDolOby', 'DolImuProNazVValBal', 'DolIstFin(isSobSreIDolObyVValBal', 'KoeAbsLik(noOgr20%)', 'KoeAvt(doSobSreVValBal(noOgrBolLiRav50%)', 'KoeLik(noOgr80%)', 'KoeMan(doSobOboSreKIstSobSre', 'KoeObeSobMatOboSre', 'KoeObeSobOboSre', 'KoeTekLik(po(noOgr20%)']
+[TABLE 40] source=M25_000000_t22Ved14.xlsx status=NO_HEADERS expected_indicators=13 sample=['DolDolObyKIstSobSreIDolOby', 'DolImuProNazVValBal', 'DolIstFin(isSobSreIDolObyVValBal', 'KoeAbsLik(noOgr20%)', 'KoeAvt(doSobSreVValBal(noOgrBolLiRav50%)', 'KoeLik(noOgr80%)', 'KoeMan(doSobOboSreKIstSobSre', 'KoeObeSobMatOboSre', 'KoeObeSobOboSre', 'KoeTekLik(po(noOgr20%)']
+[TABLE 41] ⚠️ Строка 6 (M25_000000_t20Ved14.xlsx): название 'в том числе:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 42] source=M25_000000_t23FsVed14.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa', 'DohIRasPoObyVidDeyVyr', 'NaPriUby(-OtPro', 'NaSebSUchKomIUprRas', 'NalNaPriNa', 'Pri(ubDoNalNa', 'ProDohNa', 'ProKUplNa', 'ProRasNa', 'SalProDohIRasNa']
+[TABLE 43] source=M25_000000_t23FsVed14.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa', 'DohIRasPoObyVidDeyVyr', 'NaPriUby(-OtPro', 'NaSebSUchKomIUprRas', 'NalNaPriNa', 'Pri(ubDoNalNa', 'ProDohNa', 'ProKUplNa', 'ProRasNa', 'SalProDohIRasNa']
+[TABLE 44] source=M25_000000_t23FsVed14.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa', 'DohIRasPoObyVidDeyVyr', 'NaPriUby(-OtPro', 'NaSebSUchKomIUprRas', 'NalNaPriNa', 'Pri(ubDoNalNa', 'ProDohNa', 'ProKUplNa', 'ProRasNa', 'SalProDohIRasNa']
+[TABLE 45] ⚠️ Строка 6 (M25_000000_t21Ved14.xlsx): название 'в том числе:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 46] source=M25_000000_t23OpfVed14.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa_1', 'DohIRasPoObyVidDeyVyr_1', 'NaPriUby(-OtPro_1', 'NaSebSUchKomIUprRas_1', 'NalNaPriNa_1', 'Pri(ubDoNalNa_1', 'ProDohNa_1', 'ProKUplNa_1', 'ProRasNa_1', 'SalProDohIRasNa_1']
+[TABLE 47] source=M25_000000_t23OpfVed14.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa_1', 'DohIRasPoObyVidDeyVyr_1', 'NaPriUby(-OtPro_1', 'NaSebSUchKomIUprRas_1', 'NalNaPriNa_1', 'Pri(ubDoNalNa_1', 'ProDohNa_1', 'ProKUplNa_1', 'ProRasNa_1', 'SalProDohIRasNa_1']
+[TABLE 48] source=M25_000000_t23OpfVed14.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa_1', 'DohIRasPoObyVidDeyVyr_1', 'NaPriUby(-OtPro_1', 'NaSebSUchKomIUprRas_1', 'NalNaPriNa_1', 'Pri(ubDoNalNa_1', 'ProDohNa_1', 'ProKUplNa_1', 'ProRasNa_1', 'SalProDohIRasNa_1']
+[TABLE 49] source=M25_000000_t23OpfVed14.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa_1', 'DohIRasPoObyVidDeyVyr_1', 'NaPriUby(-OtPro_1', 'NaSebSUchKomIUprRas_1', 'NalNaPriNa_1', 'Pri(ubDoNalNa_1', 'ProDohNa_1', 'ProKUplNa_1', 'ProRasNa_1', 'SalProDohIRasNa_1']
+[TABLE 50] source=M25_000000_t23OpfVed14.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa_1', 'DohIRasPoObyVidDeyVyr_1', 'NaPriUby(-OtPro_1', 'NaSebSUchKomIUprRas_1', 'NalNaPriNa_1', 'Pri(ubDoNalNa_1', 'ProDohNa_1', 'ProKUplNa_1', 'ProRasNa_1', 'SalProDohIRasNa_1']
+[TABLE 51] source=M25_000000_t23OpfVed14.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa_1', 'DohIRasPoObyVidDeyVyr_1', 'NaPriUby(-OtPro_1', 'NaSebSUchKomIUprRas_1', 'NalNaPriNa_1', 'Pri(ubDoNalNa_1', 'ProDohNa_1', 'ProKUplNa_1', 'ProRasNa_1', 'SalProDohIRasNa_1']
+[TABLE 52] ⚠️ Строка 5 (M25_000000_t22Ved14.xlsx): название 'в том числе:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 52] ⚠️ Строка 16 (M25_000000_t22Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 52] ⚠️ Строка 17 (M25_000000_t22Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 53] source=M25_000000_t23Ved14mo8.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa_2', 'DohIRasPoObyVidDeyVyr_2', 'NaPriUby(-OtPro_2', 'NaSebSUchKomIUprRas_2', 'NalNaPriNa_2', 'Pri(ubDoNalNa_2', 'ProDohNa_2', 'ProKUplNa_2', 'ProRasNa_2', 'SalProDohIRasNa_2']
+[TABLE 54] source=M25_000000_t23Ved14mo8.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa_2', 'DohIRasPoObyVidDeyVyr_2', 'NaPriUby(-OtPro_2', 'NaSebSUchKomIUprRas_2', 'NalNaPriNa_2', 'Pri(ubDoNalNa_2', 'ProDohNa_2', 'ProKUplNa_2', 'ProRasNa_2', 'SalProDohIRasNa_2']
+[TABLE 55] source=M25_000000_t23Ved14mo8.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa_2', 'DohIRasPoObyVidDeyVyr_2', 'NaPriUby(-OtPro_2', 'NaSebSUchKomIUprRas_2', 'NalNaPriNa_2', 'Pri(ubDoNalNa_2', 'ProDohNa_2', 'ProKUplNa_2', 'ProRasNa_2', 'SalProDohIRasNa_2']
+[TABLE 56] source=M25_000000_t23Ved14mo8.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa_2', 'DohIRasPoObyVidDeyVyr_2', 'NaPriUby(-OtPro_2', 'NaSebSUchKomIUprRas_2', 'NalNaPriNa_2', 'Pri(ubDoNalNa_2', 'ProDohNa_2', 'ProKUplNa_2', 'ProRasNa_2', 'SalProDohIRasNa_2']
+[TABLE 57] source=M25_000000_t23Ved14mo8.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa_2', 'DohIRasPoObyVidDeyVyr_2', 'NaPriUby(-OtPro_2', 'NaSebSUchKomIUprRas_2', 'NalNaPriNa_2', 'Pri(ubDoNalNa_2', 'ProDohNa_2', 'ProKUplNa_2', 'ProRasNa_2', 'SalProDohIRasNa_2']
+[TABLE 58] source=M25_000000_t23Ved14mo8.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa_2', 'DohIRasPoObyVidDeyVyr_2', 'NaPriUby(-OtPro_2', 'NaSebSUchKomIUprRas_2', 'NalNaPriNa_2', 'Pri(ubDoNalNa_2', 'ProDohNa_2', 'ProKUplNa_2', 'ProRasNa_2', 'SalProDohIRasNa_2']
+[TABLE 59] source=M25_000000_t23Ved14mo8.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa_2', 'DohIRasPoObyVidDeyVyr_2', 'NaPriUby(-OtPro_2', 'NaSebSUchKomIUprRas_2', 'NalNaPriNa_2', 'Pri(ubDoNalNa_2', 'ProDohNa_2', 'ProKUplNa_2', 'ProRasNa_2', 'SalProDohIRasNa_2']
+[TABLE 60] source=M25_000000_t23Ved14mo8.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa_2', 'DohIRasPoObyVidDeyVyr_2', 'NaPriUby(-OtPro_2', 'NaSebSUchKomIUprRas_2', 'NalNaPriNa_2', 'Pri(ubDoNalNa_2', 'ProDohNa_2', 'ProKUplNa_2', 'ProRasNa_2', 'SalProDohIRasNa_2']
+[TABLE 61] source=M25_000000_t23Ved14mo8.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa_2', 'DohIRasPoObyVidDeyVyr_2', 'NaPriUby(-OtPro_2', 'NaSebSUchKomIUprRas_2', 'NalNaPriNa_2', 'Pri(ubDoNalNa_2', 'ProDohNa_2', 'ProKUplNa_2', 'ProRasNa_2', 'SalProDohIRasNa_2']
+[TABLE 62] source=M25_000000_t23Ved14mo8.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa_2', 'DohIRasPoObyVidDeyVyr_2', 'NaPriUby(-OtPro_2', 'NaSebSUchKomIUprRas_2', 'NalNaPriNa_2', 'Pri(ubDoNalNa_2', 'ProDohNa_2', 'ProKUplNa_2', 'ProRasNa_2', 'SalProDohIRasNa_2']
+[TABLE 63] source=M25_000000_t23Ved14mo8.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa_2', 'DohIRasPoObyVidDeyVyr_2', 'NaPriUby(-OtPro_2', 'NaSebSUchKomIUprRas_2', 'NalNaPriNa_2', 'Pri(ubDoNalNa_2', 'ProDohNa_2', 'ProKUplNa_2', 'ProRasNa_2', 'SalProDohIRasNa_2']
+[TABLE 64] source=M25_000000_t23Ved14mo8.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa_2', 'DohIRasPoObyVidDeyVyr_2', 'NaPriUby(-OtPro_2', 'NaSebSUchKomIUprRas_2', 'NalNaPriNa_2', 'Pri(ubDoNalNa_2', 'ProDohNa_2', 'ProKUplNa_2', 'ProRasNa_2', 'SalProDohIRasNa_2']
+[TABLE 65] source=M25_000000_t23Ved14mo8.xlsx status=NO_HEADERS expected_indicators=10 sample=['ChiPri(ubOtcPerNa_2', 'DohIRasPoObyVidDeyVyr_2', 'NaPriUby(-OtPro_2', 'NaSebSUchKomIUprRas_2', 'NalNaPriNa_2', 'Pri(ubDoNalNa_2', 'ProDohNa_2', 'ProKUplNa_2', 'ProRasNa_2', 'SalProDohIRasNa_2']
+[TABLE 66] ⚠️ Строка 3 (M25_000000_t23FsVed14.xlsx): название категории '' не найдено — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 66] ⚠️ Строка 4 (M25_000000_t23FsVed14.xlsx): название категории '' не найдено — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 66] ⚠️ Строка 5 (M25_000000_t23FsVed14.xlsx): название категории 'Всего' не найдено — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 66] ⚠️ Строка 6 (M25_000000_t23FsVed14.xlsx): название категории 'в том числе:' не найдено — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 66] ⚠️ Строка 7 (M25_000000_t23FsVed14.xlsx): название категории 'Сельское, лесное хозяйство, охота, рыболовство  и рыбоводство' не найдено — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 66] ⚠️ Строка 8 (M25_000000_t23FsVed14.xlsx): название категории 'растениеводство  и животноводство, охота  и предоставление соответствующих услуг  в этих областях' не найдено — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 66] ⚠️ Строка 9 (M25_000000_t23FsVed14.xlsx): название категории 'лесоводство  и лесозаготовки' не найдено — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 66] ⚠️ Строка 10 (M25_000000_t23FsVed14.xlsx): название категории 'рыболовство  и рыбоводство' не найдено — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 66] ⚠️ Строка 11 (M25_000000_t23FsVed14.xlsx): название категории 'Добыча полезных ископаемых' не найдено — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 66] ⚠️ Строка 12 (M25_000000_t23FsVed14.xlsx): название категории 'добыча угля' не найдено — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 66] ⚠️ Строка 13 (M25_000000_t23FsVed14.xlsx): название категории 'добыча металлических руд' не найдено — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 66] ⚠️ Строка 14 (M25_000000_t23FsVed14.xlsx): название категории 'добыча прочих полезных ископаемых' не найдено — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 67] source=M25_000000_t25Ved14.xlsx matched=1/14 missing_sample=['KolOrgEdiNa', 'KolOrgPolUbyZaPreGo(edNa', 'NaPriDoNal', 'NaUby', 'NaV%KObsKol', 'OrgPolPriKolOrgEdi', 'OrgPolUbyKolOrgEdi', 'PriUby(-DoNalZaPreGoNa', 'SumPriZaPreGoNa', 'SumUbyZaPreGoNa', 'TeRosPri(ubV%Na', 'TeRosSumPriV%Na', 'TeRosUbyV%Na']
+[TABLE 68] source=M25_000000_t25Ved14.xlsx matched=1/14 missing_sample=['KolOrgEdiNa', 'KolOrgPolUbyZaPreGo(edNa', 'NaPriDoNal', 'NaUby', 'NaV%KObsKol', 'OrgPolPriKolOrgEdi', 'OrgPolUbyKolOrgEdi', 'PriUby(-DoNalZaPreGoNa', 'SumPriZaPreGoNa', 'SumUbyZaPreGoNa', 'TeRosPri(ubV%Na', 'TeRosSumPriV%Na', 'TeRosUbyV%Na']
+[TABLE 69] source=M25_000000_t25Ved14.xlsx matched=1/14 missing_sample=['KolOrgEdiNa', 'KolOrgPolUbyZaPreGo(edNa', 'NaPriDoNal', 'NaUby', 'NaV%KObsKol', 'OrgPolPriKolOrgEdi', 'OrgPolUbyKolOrgEdi', 'PriUby(-DoNalZaPreGoNa', 'SumPriZaPreGoNa', 'SumUbyZaPreGoNa', 'TeRosPri(ubV%Na', 'TeRosSumPriV%Na', 'TeRosUbyV%Na']
+[TABLE 70] source=M25_000000_t25Ved14.xlsx matched=1/14 missing_sample=['KolOrgEdiNa', 'KolOrgPolUbyZaPreGo(edNa', 'NaPriDoNal', 'NaUby', 'NaV%KObsKol', 'OrgPolPriKolOrgEdi', 'OrgPolUbyKolOrgEdi', 'PriUby(-DoNalZaPreGoNa', 'SumPriZaPreGoNa', 'SumUbyZaPreGoNa', 'TeRosPri(ubV%Na', 'TeRosSumPriV%Na', 'TeRosUbyV%Na']
+[TABLE 70] ⚠️ Строка 12 (M25_000000_t25Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 70] ⚠️ Строка 13 (M25_000000_t25Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 71] source=M25_000000_t25Ved14.xlsx matched=1/14 missing_sample=['KolOrgEdiNa', 'KolOrgPolUbyZaPreGo(edNa', 'NaPriDoNal', 'NaUby', 'NaV%KObsKol', 'OrgPolPriKolOrgEdi', 'OrgPolUbyKolOrgEdi', 'PriUby(-DoNalZaPreGoNa', 'SumPriZaPreGoNa', 'SumUbyZaPreGoNa', 'TeRosPri(ubV%Na', 'TeRosSumPriV%Na', 'TeRosUbyV%Na']
+[TABLE 72] source=M25_000000_t25Ved14.xlsx matched=1/14 missing_sample=['KolOrgEdiNa', 'KolOrgPolUbyZaPreGo(edNa', 'NaPriDoNal', 'NaUby', 'NaV%KObsKol', 'OrgPolPriKolOrgEdi', 'OrgPolUbyKolOrgEdi', 'PriUby(-DoNalZaPreGoNa', 'SumPriZaPreGoNa', 'SumUbyZaPreGoNa', 'TeRosPri(ubV%Na', 'TeRosSumPriV%Na', 'TeRosUbyV%Na']
+[TABLE 73] source=M25_000000_t25Ved14.xlsx matched=1/14 missing_sample=['KolOrgEdiNa', 'KolOrgPolUbyZaPreGo(edNa', 'NaPriDoNal', 'NaUby', 'NaV%KObsKol', 'OrgPolPriKolOrgEdi', 'OrgPolUbyKolOrgEdi', 'PriUby(-DoNalZaPreGoNa', 'SumPriZaPreGoNa', 'SumUbyZaPreGoNa', 'TeRosPri(ubV%Na', 'TeRosSumPriV%Na', 'TeRosUbyV%Na']
+[TABLE 73] ⚠️ Строка 9 (M25_000000_t25Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 73] ⚠️ Строка 10 (M25_000000_t25Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 74] source=M25_000000_t25Ved14.xlsx matched=1/14 missing_sample=['KolOrgEdiNa', 'KolOrgPolUbyZaPreGo(edNa', 'NaPriDoNal', 'NaUby', 'NaV%KObsKol', 'OrgPolPriKolOrgEdi', 'OrgPolUbyKolOrgEdi', 'PriUby(-DoNalZaPreGoNa', 'SumPriZaPreGoNa', 'SumUbyZaPreGoNa', 'TeRosPri(ubV%Na', 'TeRosSumPriV%Na', 'TeRosUbyV%Na']
+[TABLE 75] ⚠️ Строка 4 (M25_000000_t23OpfVed14.xlsx): название категории '' не найдено — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 75] ⚠️ Строка 5 (M25_000000_t23OpfVed14.xlsx): название категории '' не найдено — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 76] source=M25_000000_t25FsVed14.xlsx matched=1/14 missing_sample=['KolOrgEdiNa_1', 'KolOrgPolUbyZaPreGo(edNa_1', 'NaPriDoNal_1', 'NaUby_1', 'NaV%KObsKol_1', 'OrgPolPriKolOrgEdi_1', 'OrgPolUbyKolOrgEdi_1', 'PriUby(-DoNalZaPreGoNa_1', 'SumPriZaPreGoNa_1', 'SumUbyZaPreGoNa_1', 'TeRosPri(ubV%Na_1', 'TeRosSumPriV%Na_1', 'TeRosUbyV%Na_1']
+[TABLE 76] ⚠️ Строка 5 (M25_000000_t25FsVed14.xlsx): название категории 'потребительские кооперативы' не найдено — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 77] ⚠️ Строка 3 (M25_000000_t23Ved14mo8.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 77] ⚠️ Строка 4 (M25_000000_t23Ved14mo8.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 77] ⚠️ Строка 6 (M25_000000_t23Ved14mo8.xlsx): название 'Городские округа:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 77] ⚠️ Строка 9 (M25_000000_t23Ved14mo8.xlsx): название 'Муниципальные округа:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 77] ⚠️ Строка 12 (M25_000000_t23Ved14mo8.xlsx): название 'Муниципальные районы:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 77] ⚠️ Строка 20 (M25_000000_t23Ved14mo8.xlsx): название 'Олюторский' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 77] ⚠️ Строка 21 (M25_000000_t23Ved14mo8.xlsx): название 'Пенжинский' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 78] ⚠️ Строка 5 (M25_000000_t25Ved14.xlsx): название 'в том числе:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 79] source=M25_000000_t26Ved14.xlsx matched=2/11 missing_sample=['NaChiPri(ubKVyr', 'NaKVyr', 'NaSebProSUchKomIUprRas', 'NaUbyOtPro', 'NaUbyV%:', 'NaV%KObsKolOrg', 'PriUby(-OtProNa', 'RenUby(-V%KSebProSUchKomIUprRas', 'SebProSUchKomIUprRasNa']
+[TABLE 80] source=M25_000000_t26Ved14.xlsx matched=2/11 missing_sample=['NaChiPri(ubKVyr', 'NaKVyr', 'NaSebProSUchKomIUprRas', 'NaUbyOtPro', 'NaUbyV%:', 'NaV%KObsKolOrg', 'PriUby(-OtProNa', 'RenUby(-V%KSebProSUchKomIUprRas', 'SebProSUchKomIUprRasNa']
+[TABLE 81] source=M25_000000_t26Ved14.xlsx matched=2/11 missing_sample=['NaChiPri(ubKVyr', 'NaKVyr', 'NaSebProSUchKomIUprRas', 'NaUbyOtPro', 'NaUbyV%:', 'NaV%KObsKolOrg', 'PriUby(-OtProNa', 'RenUby(-V%KSebProSUchKomIUprRas', 'SebProSUchKomIUprRasNa']
+[TABLE 81] ⚠️ Строка 16 (M25_000000_t26Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 81] ⚠️ Строка 17 (M25_000000_t26Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 82] source=M25_000000_t26Ved14.xlsx matched=2/11 missing_sample=['NaChiPri(ubKVyr', 'NaKVyr', 'NaSebProSUchKomIUprRas', 'NaUbyOtPro', 'NaUbyV%:', 'NaV%KObsKolOrg', 'PriUby(-OtProNa', 'RenUby(-V%KSebProSUchKomIUprRas', 'SebProSUchKomIUprRasNa']
+[TABLE 83] source=M25_000000_t26Ved14.xlsx matched=2/11 missing_sample=['NaChiPri(ubKVyr', 'NaKVyr', 'NaSebProSUchKomIUprRas', 'NaUbyOtPro', 'NaUbyV%:', 'NaV%KObsKolOrg', 'PriUby(-OtProNa', 'RenUby(-V%KSebProSUchKomIUprRas', 'SebProSUchKomIUprRasNa']
+[TABLE 84] source=M25_000000_t26Ved14.xlsx matched=2/11 missing_sample=['NaChiPri(ubKVyr', 'NaKVyr', 'NaSebProSUchKomIUprRas', 'NaUbyOtPro', 'NaUbyV%:', 'NaV%KObsKolOrg', 'PriUby(-OtProNa', 'RenUby(-V%KSebProSUchKomIUprRas', 'SebProSUchKomIUprRasNa']
+[TABLE 84] ⚠️ Строка 8 (M25_000000_t26Ved14.xlsx): название 'деятельность по организации  и проведению азартных игр  и заключению пари, по организации и проведению лотерей' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 85] ⚠️ Строка 4 (M25_000000_t25FsVed14.xlsx): название категории 'Всего' не найдено — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 86] ⚠️ Строка 5 (M25_000000_t25Ved14mo8.xlsx): название 'Городские округа:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 86] ⚠️ Строка 8 (M25_000000_t25Ved14mo8.xlsx): название 'Муниципальные округа:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 86] ⚠️ Строка 11 (M25_000000_t25Ved14mo8.xlsx): название 'Муниципальные районы:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 86] ⚠️ Строка 19 (M25_000000_t25Ved14mo8.xlsx): название 'Олюторский' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 86] ⚠️ Строка 20 (M25_000000_t25Ved14mo8.xlsx): название 'Пенжинский' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 87] source=M25_000000_t27Ved14.xlsx status=NO_HEADERS expected_indicators=8 sample=['ChiPriUby(-DoNalV%K:VsAkt', 'FinRezUbyOrgV%KItoAktUbyOrgNa', 'NaDolOby', 'NaKapIRez', 'NaKraOby', 'NaOboAkt', 'NaVneAkt', 'Pri(ubDoNalV%K:VsAkt']
+[TABLE 88] source=M25_000000_t26Ved14.xlsx matched=4/11 missing_sample=['NaChiPri(ubKVyr', 'NaKVyr', 'NaSebProSUchKomIUprRas', 'NaUbyOtPro', 'NaUbyV%:', 'NaV%KObsKolOrg', 'OrgPolUbyOtProKolOrg(ed']
+[TABLE 88] ⚠️ Строка 6 (M25_000000_t26Ved14.xlsx): название 'в том числе:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 89] source=M25_000000_t27Ved14mo8.xlsx status=NO_HEADERS expected_indicators=8 sample=['ChiPriUby(-DoNalV%K:VsAkt_1', 'FinRezUbyOrgV%KItoAktUbyOrgNa_1', 'NaDolOby_1', 'NaKapIRez_1', 'NaKraOby_1', 'NaOboAkt_1', 'NaVneAkt_1', 'Pri(ubDoNalV%K:VsAkt_1']
+[TABLE 90] source=M25_000000_t27Ved14mo8.xlsx status=NO_HEADERS expected_indicators=8 sample=['ChiPriUby(-DoNalV%K:VsAkt_1', 'FinRezUbyOrgV%KItoAktUbyOrgNa_1', 'NaDolOby_1', 'NaKapIRez_1', 'NaKraOby_1', 'NaOboAkt_1', 'NaVneAkt_1', 'Pri(ubDoNalV%K:VsAkt_1']
+[TABLE 91] source=M25_000000_t27Ved14mo8.xlsx status=NO_HEADERS expected_indicators=8 sample=['ChiPriUby(-DoNalV%K:VsAkt_1', 'FinRezUbyOrgV%KItoAktUbyOrgNa_1', 'NaDolOby_1', 'NaKapIRez_1', 'NaKraOby_1', 'NaOboAkt_1', 'NaVneAkt_1', 'Pri(ubDoNalV%K:VsAkt_1']
+[TABLE 92] source=M25_000000_t27Ved14mo8.xlsx status=NO_HEADERS expected_indicators=8 sample=['ChiPriUby(-DoNalV%K:VsAkt_1', 'FinRezUbyOrgV%KItoAktUbyOrgNa_1', 'NaDolOby_1', 'NaKapIRez_1', 'NaKraOby_1', 'NaOboAkt_1', 'NaVneAkt_1', 'Pri(ubDoNalV%K:VsAkt_1']
+[TABLE 93] source=M25_000000_t27Ved14mo8.xlsx status=NO_HEADERS expected_indicators=8 sample=['ChiPriUby(-DoNalV%K:VsAkt_1', 'FinRezUbyOrgV%KItoAktUbyOrgNa_1', 'NaDolOby_1', 'NaKapIRez_1', 'NaKraOby_1', 'NaOboAkt_1', 'NaVneAkt_1', 'Pri(ubDoNalV%K:VsAkt_1']
+[TABLE 94] source=M25_000000_t27Ved14mo8.xlsx status=NO_HEADERS expected_indicators=8 sample=['ChiPriUby(-DoNalV%K:VsAkt_1', 'FinRezUbyOrgV%KItoAktUbyOrgNa_1', 'NaDolOby_1', 'NaKapIRez_1', 'NaKraOby_1', 'NaOboAkt_1', 'NaVneAkt_1', 'Pri(ubDoNalV%K:VsAkt_1']
+[TABLE 95] source=M25_000000_t27Ved14mo8.xlsx status=NO_HEADERS expected_indicators=8 sample=['ChiPriUby(-DoNalV%K:VsAkt_1', 'FinRezUbyOrgV%KItoAktUbyOrgNa_1', 'NaDolOby_1', 'NaKapIRez_1', 'NaKraOby_1', 'NaOboAkt_1', 'NaVneAkt_1', 'Pri(ubDoNalV%K:VsAkt_1']
+[TABLE 96] source=M25_000000_t27Ved14mo8.xlsx status=NO_HEADERS expected_indicators=8 sample=['ChiPriUby(-DoNalV%K:VsAkt_1', 'FinRezUbyOrgV%KItoAktUbyOrgNa_1', 'NaDolOby_1', 'NaKapIRez_1', 'NaKraOby_1', 'NaOboAkt_1', 'NaVneAkt_1', 'Pri(ubDoNalV%K:VsAkt_1']
+[TABLE 97] source=M25_000000_t27Ved14mo8.xlsx status=NO_HEADERS expected_indicators=8 sample=['ChiPriUby(-DoNalV%K:VsAkt_1', 'FinRezUbyOrgV%KItoAktUbyOrgNa_1', 'NaDolOby_1', 'NaKapIRez_1', 'NaKraOby_1', 'NaOboAkt_1', 'NaVneAkt_1', 'Pri(ubDoNalV%K:VsAkt_1']
+[TABLE 98] source=M25_000000_t27Ved14mo8.xlsx status=NO_HEADERS expected_indicators=8 sample=['ChiPriUby(-DoNalV%K:VsAkt_1', 'FinRezUbyOrgV%KItoAktUbyOrgNa_1', 'NaDolOby_1', 'NaKapIRez_1', 'NaKraOby_1', 'NaOboAkt_1', 'NaVneAkt_1', 'Pri(ubDoNalV%K:VsAkt_1']
+[TABLE 99] source=M25_000000_t27Ved14mo8.xlsx status=NO_HEADERS expected_indicators=8 sample=['ChiPriUby(-DoNalV%K:VsAkt_1', 'FinRezUbyOrgV%KItoAktUbyOrgNa_1', 'NaDolOby_1', 'NaKapIRez_1', 'NaKraOby_1', 'NaOboAkt_1', 'NaVneAkt_1', 'Pri(ubDoNalV%K:VsAkt_1']
+[TABLE 100] ⚠️ Строка 28 (M25_000000_t26Ved14mo8.xlsx): название 'Городские округа:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 100] ⚠️ Строка 31 (M25_000000_t26Ved14mo8.xlsx): название 'Муниципальные округа:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 100] ⚠️ Строка 33 (M25_000000_t26Ved14mo8.xlsx): название 'Муниципальные районы:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 100] ⚠️ Строка 41 (M25_000000_t26Ved14mo8.xlsx): название 'Олюторский' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 100] ⚠️ Строка 42 (M25_000000_t26Ved14mo8.xlsx): название 'Пенжинский' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 101] ⚠️ Строка 3 (M25_000000_t27Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 101] ⚠️ Строка 5 (M25_000000_t27Ved14.xlsx): название 'в том числе:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 102] ⚠️ Строка 3 (M25_000000_t27Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 103] ⚠️ Строка 13 (M25_000000_t27Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 103] ⚠️ Строка 14 (M25_000000_t27Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 104] ⚠️ Строка 14 (M25_000000_t27Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 104] ⚠️ Строка 16 (M25_000000_t27Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 104] ⚠️ Строка 26 (M25_000000_t27Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 104] ⚠️ Строка 28 (M25_000000_t27Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 105] ⚠️ Строка 3 (M25_000000_t27Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 106] ⚠️ Строка 3 (M25_000000_t27Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 107] source=M25_000000_t26Ved14mo8.xlsx status=NO_HEADERS expected_indicators=11 sample=['KolOrgEdiNa_4', 'NaChiPri(ubKVyr_1', 'NaKVyr_1', 'NaSebProSUchKomIUprRas_1', 'NaUbyOtPro_1', 'NaUbyV%:_1', 'NaV%KObsKolOrg_1', 'OrgPolUbyOtProKolOrg(ed_1', 'PriUby(-OtProNa_1', 'RenUby(-V%KSebProSUchKomIUprRas_1']
+[TABLE 108] ⚠️ Строка 3 (M25_000000_t27Ved14mo8.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 108] ⚠️ Строка 5 (M25_000000_t27Ved14mo8.xlsx): название 'Городские округа:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 108] ⚠️ Строка 8 (M25_000000_t27Ved14mo8.xlsx): название 'Муниципальные округа:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 108] ⚠️ Строка 11 (M25_000000_t27Ved14mo8.xlsx): название 'Муниципальные районы:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 108] ⚠️ Строка 19 (M25_000000_t27Ved14mo8.xlsx): название 'Олюторский' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 108] ⚠️ Строка 20 (M25_000000_t27Ved14mo8.xlsx): название 'Пенжинский' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 109] ⚠️ Строка 3 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 109] ⚠️ Строка 5 (M25_000000_t28Ved14.xlsx): название 'в том числе:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 110] ⚠️ Строка 3 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 111] ⚠️ Строка 3 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 112] ⚠️ Строка 3 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 113] ⚠️ Строка 3 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 114] ⚠️ Строка 3 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 115] ⚠️ Строка 3 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 116] ⚠️ Строка 3 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 116] ⚠️ Строка 11 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 116] ⚠️ Строка 13 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 117] ⚠️ Строка 3 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 117] ⚠️ Строка 9 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 117] ⚠️ Строка 11 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 118] ⚠️ Строка 3 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 119] source=M25_000000_t28Ved14.xlsx matched=1/2 missing_sample=['KoeTekLikOt>=20KolOrg(ed']
+[TABLE 119] ⚠️ Строка 5 (M25_000000_t28Ved14.xlsx): название 'в том числе:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 120] source=M25_000000_t28Ved14.xlsx matched=1/2 missing_sample=['KoeTekLikOt>=20KolOrg(ed']
+[TABLE 121] source=M25_000000_t28Ved14.xlsx matched=1/2 missing_sample=['KoeTekLikOt>=20KolOrg(ed']
+[TABLE 122] source=M25_000000_t28Ved14.xlsx matched=1/2 missing_sample=['KoeTekLikOt>=20KolOrg(ed']
+[TABLE 123] source=M25_000000_t28Ved14.xlsx matched=1/2 missing_sample=['KoeTekLikOt>=20KolOrg(ed']
+[TABLE 123] ⚠️ Строка 12 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 123] ⚠️ Строка 13 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 124] source=M25_000000_t28Ved14.xlsx matched=1/2 missing_sample=['KoeTekLikOt>=20KolOrg(ed']
+[TABLE 125] source=M25_000000_t28Ved14.xlsx matched=1/2 missing_sample=['KoeTekLikOt>=20KolOrg(ed']
+[TABLE 126] ⚠️ Строка 3 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 126] ⚠️ Строка 5 (M25_000000_t28Ved14.xlsx): название 'в том числе:' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 127] ⚠️ Строка 3 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 127] ⚠️ Строка 12 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 127] ⚠️ Строка 14 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 128] ⚠️ Строка 3 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 129] ⚠️ Строка 3 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 129] ⚠️ Строка 13 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 129] ⚠️ Строка 15 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 129] ⚠️ Строка 23 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 129] ⚠️ Строка 25 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 130] ⚠️ Строка 3 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 131] ⚠️ Строка 3 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 132] ⚠️ Строка 3 (M25_000000_t28Ved14.xlsx): название '' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены
+[TABLE 132] ⚠️ Строка 4 (M25_000000_t28Ved14.xlsx): название 'деятельность  по организации  и проведению азартных  игр и заключению пари,  по организации  и проведению лотерей' не найдено ни в ОКВЭД, ни в МО справочнике — строка НЕ будет заполнена, числовые ячейки очищены

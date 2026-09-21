@@ -1,0 +1,185 @@
+"""Краш-тесты пайплайна: проверяют, что "плохие" входные файлы (битый Excel,
+повреждённый column_mapping_v2.csv и т.п.) не обрушивают весь процесс
+необработанным исключением, а деградируют предсказуемо — с понятным
+предупреждением в консоли и, где это возможно, пропуском только сломанного
+источника.
+"""
+import tempfile
+import unittest
+from pathlib import Path
+
+import openpyxl
+
+from config_v2 import build_column_mapping_v2_from_excel, ensure_column_mapping_v2, load_column_mapping_v2
+
+
+def _write_good_excel(path: Path) -> None:
+    wb = openpyxl.Workbook()
+    ws = wb.active
+    ws.append(["Код", "Наименование", "Показатель А"])
+    ws.append(["", "", "тыс.руб."])
+    ws.append(["А", "Б", "1"])
+    ws.append(["01", "Организация 1", "123"])
+    wb.save(path)
+
+
+def _write_corrupted_excel(path: Path) -> None:
+    # Файл с расширением .xlsx, но не являющийся реальным Excel-файлом —
+    # имитирует повреждённый/неверно сохранённый источник.
+    path.write_text("это не excel файл, просто текст с расширением .xlsx")
+
+
+class TestCrashResilience(unittest.TestCase):
+    def test_one_corrupted_excel_file_does_not_crash_build(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            excel_dir = Path(tmpdir) / "excel"
+            excel_dir.mkdir()
+            _write_good_excel(excel_dir / "good.xlsx")
+            _write_corrupted_excel(excel_dir / "corrupted.xlsx")
+
+            table_mapping = {
+                "1. Хорошая таблица": "good.xlsx",
+                "2. Битая таблица": "corrupted.xlsx",
+            }
+            output_path = Path(tmpdir) / "column_mapping_v2.csv"
+
+            # Не должно бросить исключение — битый файл пропускается,
+            # хороший всё равно попадает в результат.
+            build_column_mapping_v2_from_excel(excel_dir, table_mapping, output_path)
+
+            self.assertTrue(output_path.exists())
+            content = output_path.read_text(encoding="utf-8-sig")
+            self.assertIn("good.xlsx", content)
+            self.assertNotIn("corrupted.xlsx", content)
+
+    def test_all_sources_corrupted_raises_clear_error(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            excel_dir = Path(tmpdir) / "excel"
+            excel_dir.mkdir()
+            _write_corrupted_excel(excel_dir / "corrupted.xlsx")
+
+            table_mapping = {"1. Битая таблица": "corrupted.xlsx"}
+            output_path = Path(tmpdir) / "column_mapping_v2.csv"
+
+            with self.assertRaises(ValueError) as ctx:
+                build_column_mapping_v2_from_excel(excel_dir, table_mapping, output_path)
+
+            # Сообщение должно называть конкретный проблемный файл, а не
+            # быть голым "не удалось сгенерировать".
+            self.assertIn("corrupted.xlsx", str(ctx.exception))
+
+    def test_missing_source_file_does_not_crash_build(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            excel_dir = Path(tmpdir) / "excel"
+            excel_dir.mkdir()
+            _write_good_excel(excel_dir / "good.xlsx")
+
+            table_mapping = {
+                "1. Хорошая таблица": "good.xlsx",
+                "2. Отсутствующая таблица": "no_such_file.xlsx",
+            }
+            output_path = Path(tmpdir) / "column_mapping_v2.csv"
+
+            build_column_mapping_v2_from_excel(excel_dir, table_mapping, output_path)
+
+            self.assertTrue(output_path.exists())
+            self.assertIn("good.xlsx", output_path.read_text(encoding="utf-8-sig"))
+
+    def test_column_mapping_v2_csv_saved_as_windows1251_reads_correctly(self):
+        # Частый реальный сценарий: специалист открыл column_mapping_v2.csv
+        # в Excel на Windows и пересохранил его — результат обычно в
+        # кодировке windows-1251, а не UTF-8. Раньше это ломало чтение файла
+        # необработанным исключением (или ensure_column_mapping_v2 решала,
+        # что источник "отсутствует", хотя на самом деле файл просто в
+        # другой кодировке).
+        with tempfile.TemporaryDirectory() as tmpdir:
+            excel_dir = Path(tmpdir) / "excel"
+            excel_dir.mkdir()
+            _write_good_excel(excel_dir / "good.xlsx")
+
+            table_mapping = {"1. Хорошая таблица": "good.xlsx"}
+            output_path = Path(tmpdir) / "column_mapping_v2.csv"
+
+            content = (
+                "Excel файл;Название показателя;Код показателя;"
+                "Excel колонка 2022;Excel колонка 2023;"
+                "Ключевое слово 2022;Ключевое слово 2023\n"
+                "good.xlsx;Показатель А;PokA;3;3;;\n"
+            )
+            output_path.write_bytes(content.encode("windows-1251"))
+
+            word_to_indicator, _, _, _, _, _ = load_column_mapping_v2(output_path)
+            self.assertIn("PokA", word_to_indicator.values())
+
+            # ensure_column_mapping_v2 не должна решить, что этот источник
+            # "отсутствует" и портить файл повторной генерацией — она должна
+            # прочитать его правильно и увидеть, что good.xlsx уже учтён.
+            ensure_column_mapping_v2(excel_dir, table_mapping, output_path)
+            self.assertIn("PokA", output_path.read_text(encoding="windows-1251"))
+
+    def test_existing_mapping_is_never_silently_overwritten(self):
+        # column_mapping_v2.csv правится вручную и лежит в репозитории.
+        # Пересборка выводит коды показателей заново, они расходятся с
+        # разметкой Word, и бюллетень остаётся почти пустым. Поэтому
+        # существующий файл не должен затираться, даже если он повреждён:
+        # либо он остаётся нетронутым, либо рядом появляется его копия.
+        with tempfile.TemporaryDirectory() as tmpdir:
+            excel_dir = Path(tmpdir) / "excel"
+            excel_dir.mkdir()
+            _write_good_excel(excel_dir / "good.xlsx")
+
+            output_path = Path(tmpdir) / "column_mapping_v2.csv"
+            output_path.write_bytes(b"\x00\x01\x02" + "битый файл".encode("utf-8"))
+            original = output_path.read_bytes()
+
+            ensure_column_mapping_v2(excel_dir, {"1. Таблица": "good.xlsx"}, output_path)
+
+            backup = output_path.with_name(output_path.name + ".backup")
+            survived = (output_path.read_bytes() == original
+                        or (backup.exists() and backup.read_bytes() == original))
+            self.assertTrue(survived, "повреждённый маппинг затёрт без копии")
+
+    def test_readable_existing_mapping_is_never_rebuilt(self):
+        # Обратная гарантия: пока файл читается, он остаётся нетронутым —
+        # даже если в нём нет части источников.
+        with tempfile.TemporaryDirectory() as tmpdir:
+            excel_dir = Path(tmpdir) / "excel"
+            excel_dir.mkdir()
+            _write_good_excel(excel_dir / "good.xlsx")
+            _write_good_excel(excel_dir / "other.xlsx")
+
+            output_path = Path(tmpdir) / "column_mapping_v2.csv"
+            content = (
+                "Excel файл;Название показателя;Код показателя;"
+                "Excel колонка 2022;Excel колонка 2023;"
+                "Ключевое слово 2022;Ключевое слово 2023\n"
+                "good.xlsx;Показатель А;РучнойКод;3;;Показатель А;\n"
+            )
+            output_path.write_text(content, encoding="utf-8-sig")
+
+            ensure_column_mapping_v2(
+                excel_dir,
+                {"1. Таблица": "good.xlsx", "2. Вторая": "other.xlsx"},
+                output_path,
+            )
+
+            self.assertIn("РучнойКод", output_path.read_text(encoding="utf-8-sig"),
+                          "выверенный вручную код показателя затёрт регенерацией")
+
+    def test_all_excel_sources_corrupted_when_regenerating_gives_clear_error(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            excel_dir = Path(tmpdir) / "excel"
+            excel_dir.mkdir()
+            _write_corrupted_excel(excel_dir / "corrupted.xlsx")
+
+            table_mapping = {"1. Битая таблица": "corrupted.xlsx"}
+            output_path = Path(tmpdir) / "column_mapping_v2.csv"
+            # Файла ещё нет вообще — ensure_column_mapping_v2 должна попытаться
+            # его собрать и упасть с понятной ошибкой, а не тихо продолжить.
+            with self.assertRaises(ValueError) as ctx:
+                ensure_column_mapping_v2(excel_dir, table_mapping, output_path)
+            self.assertIn("corrupted.xlsx", str(ctx.exception))
+
+
+if __name__ == "__main__":
+    unittest.main()
